@@ -1,0 +1,9 @@
+.btn-blue {
+ background-color: #007bff; /* 蓝色背景 */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px; /* 圆角边框 */
+    text-shadow: none; /* 可以移除文字阴影 */
+    /* 其他需要的样式 */
+}
